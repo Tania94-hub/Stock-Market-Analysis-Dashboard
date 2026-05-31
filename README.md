@@ -179,7 +179,7 @@ database/stock_analysis.db
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/YourUsername/Stock_Market_Analysis_Dashboard.git
 ```
 
 ### Install Dependencies
